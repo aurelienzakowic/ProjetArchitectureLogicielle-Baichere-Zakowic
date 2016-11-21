@@ -2,6 +2,8 @@ import java.io.IOException;
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
+import java.util.Scanner;
+
 import com.google.common.collect.ImmutableSet;
 import com.google.common.reflect.ClassPath;
 import com.google.common.reflect.ClassPath.ClassInfo;
@@ -11,8 +13,12 @@ public class Main {
 	public static void main(String[] args) throws ClassNotFoundException,
 	IOException {
 
+		Scanner input = new Scanner(System.in);
+		String str = "";
+		System.out.print("------> Entrez le nom du package a etudier : ");
+		str = input.nextLine();
 		Methodes m = new Methodes();
-		String[] classes = m.getClasses("graph");
+		String[] classes = m.getClasses(str);
 		int l = classes.length;
 
 //		Package[] pa = Package.getPackages();
