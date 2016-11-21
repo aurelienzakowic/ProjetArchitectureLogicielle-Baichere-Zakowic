@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="500" height="500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" >
+<metadata>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+<rdf:Description about='' xmlns:dc='http://purl.org/dc/elements/1.1/' dc:date='2016-11-18T16:47:20+0100' dc:format='image/svg+xml'/>
+</rdf:RDF>
+</metadata>
+<g>
+<polygon class="key.frame" fill="#FFFFFF" points="434.568,490 434.568,416 58.432,416 58.432,490 "/>
+<polyline fill="none" stroke="#000000" points="58.432,490 434.568,490 434.568,416 58.432,416 58.432,490 "/>
+<polygon class="key.frame" fill="#FFFFFF" points="58.432,490 58.432,416 434.568,416 434.568,490 "/>
+<polyline fill="none" stroke="#000000" points="434.568,490 58.432,490 58.432,416 434.568,416 434.568,490 "/>
+<polyline class="key.frame" fill="none" stroke="#FFFFFF" points="434.568,490 434.568,416 "/>
+<polyline class="key.frame" fill="none" stroke="#FFFFFF" points="58.432,490 58.432,416 "/>
+<g transform="matrix(1 0 0 1 301.508 477)">
+<text x="6.0" y="3.359999895095825" font-family="arial" font-size="12" fill="#000000" pointer-events="none">March of the Penguins</text>
+</g>
+<g>
+<path d="M 291.908,480.6 L 299.108,480.6 L 299.108,473.4 L 291.908,473.4 Z " fill="#C0C0C0" stroke="black"/>
+</g>
+<g transform="matrix(1 0 0 1 77.432 477)">
+<text x="6.0" y="3.359999895095825" font-family="arial" font-size="12" fill="#000000" pointer-events="none">Batman Begins</text>
+</g>
+<g>
+<path d="M 67.832,480.6 L 75.032,480.6 L 75.032,473.4 L 67.832,473.4 Z " fill="#7C7CFF" stroke="black"/>
+</g>
+<g transform="matrix(1 0 0 1 301.508 465)">
+<text x="6.0" y="3.359999895095825" font-family="arial" font-size="12" fill="#000000" pointer-events="none">The Devil's Rejects</text>
+</g>
+<g>
+<path d="M 291.908,468.6 L 299.108,468.6 L 299.108,461.4 L 291.908,461.4 Z " fill="#FACE49" stroke="black"/>
+</g>
+<g transform="matrix(1 0 0 1 77.432 465)">
+<text x="6.0" y="3.359999895095825" font-family="arial" font-size="12" fill="#000000" pointer-events="none">Hustle and Flow</text>
+</g>
+<g>
+<path d="M 67.832,468.6 L 75.032,468.6 L 75.032,461.4 L 67.832,461.4 Z " fill="#FC2F6E" stroke="black"/>
+</g>
+<g transform="matrix(1 0 0 1 301.508 453)">
+<text x="6.0" y="3.359999895095825" font-family="arial" font-size="12" fill="#000000" pointer-events="none">War of the Worlds</text>
+</g>
+<g>
+<path d="M 291.908,456.6 L 299.108,456.6 L 299.108,449.4 L 291.908,449.4 Z " fill="#BC81E2" stroke="black"/>
+</g>
+<g transform="matrix(1 0 0 1 77.432 453)">
+<text x="6.0" y="3.359999895095825" font-family="arial" font-size="12" fill="#000000" pointer-events="none">The Bad News Bears</text>
+</g>
+<g>
+<path d="M 67.832,456.6 L 75.032,456.6 L 75.032,449.4 L 67.832,449.4 Z " fill="#FFFF00" stroke="black"/>
+</g>
+<g transform="matrix(1 0 0 1 301.508 441)">
+<text x="6.0" y="3.359999895095825" font-family="arial" font-size="12" fill="#000000" pointer-events="none">The Island</text>
+</g>
+<g>
+<path d="M 291.908,444.6 L 299.108,444.6 L 299.108,437.4 L 291.908,437.4 Z " fill="#00FFFF" stroke="black"/>
+</g>
+<g transform="matrix(1 0 0 1 77.432 441)">
+<text x="6.0" y="3.359999895095825" font-family="arial" font-size="12" fill="#000000" pointer-events="none">Fantastic Four</text>
+</g>
+<g>
+<path d="M 67.832,444.6 L 75.032,444.6 L 75.032,437.4 L 67.832,437.4 Z " fill="#FA7BD5" stroke="black"/>
+</g>
+<g transform="matrix(1 0 0 1 301.508 429)">
+<text x="6.0" y="3.359999895095825" font-family="arial" font-size="12" fill="#000000" pointer-events="none">Wedding Crashers</text>
+</g>
+<g>
+<path d="M 291.908,432.6 L 299.108,432.6 L 299.108,425.4 L 291.908,425.4 Z " fill="#FBA331" stroke="black"/>
+</g>
+<g transform="matrix(1 0 0 1 77.432 429)">
+<text x="6.0" y="3.359999895095825" font-family="arial" font-size="12" fill="#000000" pointer-events="none">Charlie and the Chocolate Factory</text>
+</g>
+<g>
+<path d="M 67.832,432.6 L 75.032,432.6 L 75.032,425.4 L 67.832,425.4 Z " fill="#48C92F" stroke="black"/>
+</g>
+<polygon class="graph.slice.March_of_the_Penguins" fill="#C0C0C0" points="176.852,88.316 183.044,86.198 189.317,84.269 195.664,82.53 202.077,80.984 208.549,79.633 215.071,78.478 216.888,78.193 250.006,240.851 "/>
+<polyline fill="none" stroke="#000000" points="250.006,240.851 176.852,88.316 183.044,86.198 189.317,84.269 195.664,82.53 202.077,80.984 208.549,79.633 215.071,78.478 216.888,78.193 250.006,240.851 "/>
+<polygon class="graph.slice.Charlie_and_the_Chocolate_Factory" fill="#48C92F" points="216.888,78.193 223.463,77.291 230.07,76.588 236.702,76.086 243.35,75.784 250.006,75.683 256.662,75.784 263.31,76.086 269.941,76.588 276.549,77.291 283.124,78.193 289.659,79.293 296.145,80.59 302.575,82.082 308.941,83.767 315.236,85.644 321.45,87.71 327.578,89.963 333.612,92.399 339.543,95.017 345.365,97.812 351.072,100.781 356.655,103.921 362.108,107.228 367.424,110.697 372.598,114.325 377.622,118.108 382.491,122.039 387.198,126.116 391.738,130.332 396.105,134.683 400.295,139.164 404.301,143.768 408.119,148.491 411.745,153.326 415.174,158.267 418.401,163.31 421.423,168.446 424.237,173.671 426.838,178.978 429.223,184.361 431.391,189.812 432.026,191.536 250.006,240.851 "/>
+<polyline fill="none" stroke="#000000" points="250.006,240.851 216.888,78.193 223.463,77.291 230.07,76.588 236.702,76.086 243.35,75.784 250.006,75.683 256.662,75.784 263.31,76.086 269.941,76.588 276.549,77.291 283.124,78.193 289.659,79.293 296.145,80.59 302.575,82.082 308.941,83.767 315.236,85.644 321.45,87.71 327.578,89.963 333.612,92.399 339.543,95.017 345.365,97.812 351.072,100.781 356.655,103.921 362.108,107.228 367.424,110.697 372.598,114.325 377.622,118.108 382.491,122.039 387.198,126.116 391.738,130.332 396.105,134.683 400.295,139.164 404.301,143.768 408.119,148.491 411.745,153.326 415.174,158.267 418.401,163.31 421.423,168.446 424.237,173.671 426.838,178.978 429.223,184.361 431.391,189.812 432.026,191.536 250.006,240.851 "/>
+<polygon class="graph.slice.Wedding_Crashers" fill="#FBA331" points="432.026,191.536 433.902,197.067 435.554,202.652 436.981,208.283 438.179,213.954 439.149,219.658 439.887,225.387 440.395,231.136 440.671,236.896 440.714,242.661 440.525,248.424 440.103,254.177 439.451,259.915 438.567,265.629 437.454,271.313 436.112,276.96 434.543,282.562 432.75,288.115 430.734,293.609 428.498,299.039 426.044,304.398 423.376,309.68 420.497,314.878 417.41,319.986 414.119,324.997 410.628,329.906 406.941,334.707 403.064,339.393 398.999,343.959 394.753,348.399 390.331,352.708 385.738,356.881 380.98,360.913 376.062,364.799 370.99,368.533 365.771,372.112 360.411,375.531 354.916,378.785 349.294,381.872 347.879,382.612 250.006,240.851 "/>
+<polyline fill="none" stroke="#000000" points="250.006,240.851 432.026,191.536 433.902,197.067 435.554,202.652 436.981,208.283 438.179,213.954 439.149,219.658 439.887,225.387 440.395,231.136 440.671,236.896 440.714,242.661 440.525,248.424 440.103,254.177 439.451,259.915 438.567,265.629 437.454,271.313 436.112,276.96 434.543,282.562 432.75,288.115 430.734,293.609 428.498,299.039 426.044,304.398 423.376,309.68 420.497,314.878 417.41,319.986 414.119,324.997 410.628,329.906 406.941,334.707 403.064,339.393 398.999,343.959 394.753,348.399 390.331,352.708 385.738,356.881 380.98,360.913 376.062,364.799 370.99,368.533 365.771,372.112 360.411,375.531 354.916,378.785 349.294,381.872 347.879,382.612 250.006,240.851 "/>
+<polygon class="graph.slice.Fantastic_Four" fill="#FA7BD5" points="347.879,382.612 342.107,385.484 336.222,388.179 330.233,390.695 324.145,393.029 317.968,395.177 311.707,397.137 305.372,398.906 298.968,400.484 292.506,401.866 285.991,403.053 279.433,404.041 272.839,404.831 266.216,405.422 259.575,405.811 252.921,406 246.264,405.988 239.612,405.774 233.262,405.382 250.006,240.851 "/>
+<polyline fill="none" stroke="#000000" points="250.006,240.851 347.879,382.612 342.107,385.484 336.222,388.179 330.233,390.695 324.145,393.029 317.968,395.177 311.707,397.137 305.372,398.906 298.968,400.484 292.506,401.866 285.991,403.053 279.433,404.041 272.839,404.831 266.216,405.422 259.575,405.811 252.921,406 246.264,405.988 239.612,405.774 233.262,405.382 250.006,240.851 "/>
+<polygon class="graph.slice.The_Island" fill="#00FFFF" points="233.262,405.382 226.642,404.775 220.051,403.969 213.495,402.965 206.985,401.762 200.526,400.364 194.129,398.771 187.799,396.986 181.544,395.011 175.374,392.848 169.294,390.5 163.313,387.969 157.437,385.259 151.674,382.374 146.03,379.316 140.514,376.089 135.131,372.697 129.888,369.145 126.485,366.699 250.006,240.851 "/>
+<polyline fill="none" stroke="#000000" points="250.006,240.851 233.262,405.382 226.642,404.775 220.051,403.969 213.495,402.965 206.985,401.762 200.526,400.364 194.129,398.771 187.799,396.986 181.544,395.011 175.374,392.848 169.294,390.5 163.313,387.969 157.437,385.259 151.674,382.374 146.03,379.316 140.514,376.089 135.131,372.697 129.888,369.145 126.485,366.699 250.006,240.851 "/>
+<polygon class="graph.slice.The_Bad_News_Bears" fill="#FFFF00" points="126.485,366.699 121.489,362.889 116.65,358.93 111.972,354.828 107.463,350.586 103.128,346.211 98.972,341.708 94.999,337.082 91.216,332.338 87.626,327.483 84.234,322.523 81.043,317.462 78.059,312.309 75.284,307.069 72.722,301.748 70.376,296.352 68.249,290.889 66.728,286.54 250.006,240.851 "/>
+<polyline fill="none" stroke="#000000" points="250.006,240.851 126.485,366.699 121.489,362.889 116.65,358.93 111.972,354.828 107.463,350.586 103.128,346.211 98.972,341.708 94.999,337.082 91.216,332.338 87.626,327.483 84.234,322.523 81.043,317.462 78.059,312.309 75.284,307.069 72.722,301.748 70.376,296.352 68.249,290.889 66.728,286.54 250.006,240.851 "/>
+<polygon class="graph.slice.War_of_the_Worlds" fill="#BC81E2" points="66.728,286.54 64.998,280.972 63.494,275.356 62.217,269.698 61.169,264.005 60.351,258.283 59.764,252.541 59.409,246.784 59.286,241.02 59.396,235.255 59.737,229.498 60.311,223.754 61.115,218.031 61.976,213.207 250.006,240.851 "/>
+<polyline fill="none" stroke="#000000" points="250.006,240.851 66.728,286.54 64.998,280.972 63.494,275.356 62.217,269.698 61.169,264.005 60.351,258.283 59.764,252.541 59.409,246.784 59.286,241.02 59.396,235.255 59.737,229.498 60.311,223.754 61.115,218.031 61.976,213.207 250.006,240.851 "/>
+<polygon class="graph.slice.Hustle_and_Flow" fill="#FC2F6E" points="61.976,213.207 63.205,207.541 64.661,201.915 66.343,196.337 68.249,190.813 70.376,185.35 72.722,179.955 75.284,174.634 78.059,169.394 81.043,164.24 84.234,159.18 87.626,154.22 90.573,150.207 250.006,240.851 "/>
+<polyline fill="none" stroke="#000000" points="250.006,240.851 61.976,213.207 63.205,207.541 64.661,201.915 66.343,196.337 68.249,190.813 70.376,185.35 72.722,179.955 75.284,174.634 78.059,169.394 81.043,164.24 84.234,159.18 87.626,154.22 90.573,150.207 250.006,240.851 "/>
+<polygon class="graph.slice.The_Devil's_Rejects" fill="#FACE49" points="90.573,150.207 94.323,145.444 98.262,140.797 102.387,136.271 106.691,131.873 111.17,127.608 115.818,123.481 120.63,119.497 125.599,115.661 130.72,111.977 135.986,108.45 137.158,107.699 250.006,240.851 "/>
+<polyline fill="none" stroke="#000000" points="250.006,240.851 90.573,150.207 94.323,145.444 98.262,140.797 102.387,136.271 106.691,131.873 111.17,127.608 115.818,123.481 120.63,119.497 125.599,115.661 130.72,111.977 135.986,108.45 137.158,107.699 250.006,240.851 "/>
+<polygon class="graph.slice.Batman_Begins" fill="#7C7CFF" points="137.158,107.699 142.592,104.37 148.158,101.206 153.847,98.213 159.654,95.394 165.571,92.752 171.59,90.29 176.852,88.316 250.006,240.851 "/>
+<polyline fill="none" stroke="#000000" points="250.006,240.851 137.158,107.699 142.592,104.37 148.158,101.206 153.847,98.213 159.654,95.394 165.571,92.752 171.59,90.29 176.852,88.316 250.006,240.851 "/>
+<polygon class="graph.slice.March_of_the_Penguins" fill="#A3A3A3" points="216.888,78.193 216.888,49.585 215.071,49.87 215.071,78.478 "/>
+<polyline fill="none" stroke="#000000" points="216.888,49.585 215.071,49.87 "/>
+<polyline fill="none" stroke="#000000" points="215.071,78.478 216.888,78.193 "/>
+<polygon class="graph.slice.March_of_the_Penguins" fill="#9F9F9F" points="215.071,78.478 215.071,49.87 208.549,51.025 208.549,79.633 "/>
+<polyline fill="none" stroke="#000000" points="215.071,49.87 208.549,51.025 "/>
+<polyline fill="none" stroke="#000000" points="208.549,79.633 215.071,78.478 "/>
+<polygon class="graph.slice.March_of_the_Penguins" fill="#9A9A9A" points="208.549,79.633 208.549,51.025 202.077,52.376 202.077,80.984 "/>
+<polyline fill="none" stroke="#000000" points="208.549,51.025 202.077,52.376 "/>
+<polyline fill="none" stroke="#000000" points="202.077,80.984 208.549,79.633 "/>
+<polygon class="graph.slice.March_of_the_Penguins" fill="#949494" points="202.077,80.984 202.077,52.376 195.664,53.922 195.664,82.53 "/>
+<polyline fill="none" stroke="#000000" points="202.077,52.376 195.664,53.922 "/>
+<polyline fill="none" stroke="#000000" points="195.664,82.53 202.077,80.984 "/>
+<polygon class="graph.slice.March_of_the_Penguins" fill="#8E8E8E" points="195.664,82.53 195.664,53.922 189.317,55.661 189.317,84.269 "/>
+<polyline fill="none" stroke="#000000" points="195.664,53.922 189.317,55.661 "/>
+<polyline fill="none" stroke="#000000" points="189.317,84.269 195.664,82.53 "/>
+<polygon class="graph.slice.March_of_the_Penguins" fill="#898989" points="189.317,84.269 189.317,55.661 183.044,57.59 183.044,86.198 "/>
+<polyline fill="none" stroke="#000000" points="189.317,55.661 183.044,57.59 "/>
+<polyline fill="none" stroke="#000000" points="183.044,86.198 189.317,84.269 "/>
+<polygon class="graph.slice.March_of_the_Penguins" fill="#838383" points="183.044,86.198 183.044,57.59 176.852,59.709 176.852,88.316 "/>
+<polyline fill="none" stroke="#000000" points="183.044,57.59 176.852,59.709 176.852,88.316 183.044,86.198 "/>
+<polygon class="graph.slice.Batman_Begins" fill="#5C5CBD" points="176.852,88.316 176.852,59.709 171.59,61.682 171.59,90.29 "/>
+<polyline fill="none" stroke="#000000" points="176.852,59.709 171.59,61.682 "/>
+<polyline fill="none" stroke="#000000" points="171.59,90.29 176.852,88.316 "/>
+<polygon class="graph.slice.Batman_Begins" fill="#5959B7" points="171.59,90.29 171.59,61.682 165.571,64.144 165.571,92.752 "/>
+<polyline fill="none" stroke="#000000" points="171.59,61.682 165.571,64.144 "/>
+<polyline fill="none" stroke="#000000" points="165.571,92.752 171.59,90.29 "/>
+<polygon class="graph.slice.Batman_Begins" fill="#5656B2" points="165.571,92.752 165.571,64.144 159.654,66.786 159.654,95.394 "/>
+<polyline fill="none" stroke="#000000" points="165.571,64.144 159.654,66.786 "/>
+<polyline fill="none" stroke="#000000" points="159.654,95.394 165.571,92.752 "/>
+<polygon class="graph.slice.Batman_Begins" fill="#5454AC" points="159.654,95.394 159.654,66.786 153.847,69.605 153.847,98.213 "/>
+<polyline fill="none" stroke="#000000" points="159.654,66.786 153.847,69.605 "/>
+<polyline fill="none" stroke="#000000" points="153.847,98.213 159.654,95.394 "/>
+<polygon class="graph.slice.Batman_Begins" fill="#5151A6" points="153.847,98.213 153.847,69.605 148.158,72.598 148.158,101.206 "/>
+<polyline fill="none" stroke="#000000" points="153.847,69.605 148.158,72.598 "/>
+<polyline fill="none" stroke="#000000" points="148.158,101.206 153.847,98.213 "/>
+<polygon class="graph.slice.Batman_Begins" fill="#4E4EA1" points="148.158,101.206 148.158,72.598 142.592,75.762 142.592,104.37 "/>
+<polyline fill="none" stroke="#000000" points="148.158,72.598 142.592,75.762 "/>
+<polyline fill="none" stroke="#000000" points="142.592,104.37 148.158,101.206 "/>
+<polygon class="graph.slice.Batman_Begins" fill="#4B4B9B" points="142.592,104.37 142.592,75.762 137.158,79.091 137.158,107.699 "/>
+<polyline fill="none" stroke="#000000" points="142.592,75.762 137.158,79.091 137.158,107.699 142.592,104.37 "/>
+<polygon class="graph.slice.The_Devil's_Rejects" fill="#93792B" points="137.158,107.699 137.158,79.091 135.986,79.842 135.986,108.45 "/>
+<polyline fill="none" stroke="#000000" points="137.158,79.091 135.986,79.842 "/>
+<polyline fill="none" stroke="#000000" points="135.986,108.45 137.158,107.699 "/>
+<polygon class="graph.slice.The_Devil's_Rejects" fill="#8F762A" points="135.986,108.45 135.986,79.842 130.72,83.369 130.72,111.977 "/>
+<polyline fill="none" stroke="#000000" points="135.986,79.842 130.72,83.369 "/>
+<polyline fill="none" stroke="#000000" points="130.72,111.977 135.986,108.45 "/>
+<polygon class="graph.slice.The_Devil's_Rejects" fill="#897128" points="130.72,111.977 130.72,83.369 125.599,87.053 125.599,115.661 "/>
+<polyline fill="none" stroke="#000000" points="130.72,83.369 125.599,87.053 "/>
+<polyline fill="none" stroke="#000000" points="125.599,115.661 130.72,111.977 "/>
+<polygon class="graph.slice.The_Devil's_Rejects" fill="#846D26" points="125.599,115.661 125.599,87.053 120.63,90.889 120.63,119.497 "/>
+<polyline fill="none" stroke="#000000" points="125.599,87.053 120.63,90.889 "/>
+<polyline fill="none" stroke="#000000" points="120.63,119.497 125.599,115.661 "/>
+<polygon class="graph.slice.The_Devil's_Rejects" fill="#7E6825" points="120.63,119.497 120.63,90.889 115.818,94.873 115.818,123.481 "/>
+<polyline fill="none" stroke="#000000" points="120.63,90.889 115.818,94.873 "/>
+<polyline fill="none" stroke="#000000" points="115.818,123.481 120.63,119.497 "/>
+<polygon class="graph.slice.The_Devil's_Rejects" fill="#786323" points="115.818,123.481 115.818,94.873 111.17,99 111.17,127.608 "/>
+<polyline fill="none" stroke="#000000" points="115.818,94.873 111.17,99 "/>
+<polyline fill="none" stroke="#000000" points="111.17,127.608 115.818,123.481 "/>
+<polygon class="graph.slice.The_Devil's_Rejects" fill="#735F22" points="111.17,127.608 111.17,99 106.691,103.265 106.691,131.873 "/>
+<polyline fill="none" stroke="#000000" points="111.17,99 106.691,103.265 "/>
+<polyline fill="none" stroke="#000000" points="106.691,131.873 111.17,127.608 "/>
+<polygon class="graph.slice.The_Devil's_Rejects" fill="#6D5A20" points="106.691,131.873 106.691,103.265 102.387,107.663 102.387,136.271 "/>
+<polyline fill="none" stroke="#000000" points="106.691,103.265 102.387,107.663 "/>
+<polyline fill="none" stroke="#000000" points="102.387,136.271 106.691,131.873 "/>
+<polygon class="graph.slice.The_Devil's_Rejects" fill="#67551E" points="102.387,136.271 102.387,107.663 98.262,112.189 98.262,140.797 "/>
+<polyline fill="none" stroke="#000000" points="102.387,107.663 98.262,112.189 "/>
+<polyline fill="none" stroke="#000000" points="98.262,140.797 102.387,136.271 "/>
+<polygon class="graph.slice.The_Devil's_Rejects" fill="#62511D" points="98.262,140.797 98.262,112.189 94.323,116.836 94.323,145.444 "/>
+<polyline fill="none" stroke="#000000" points="98.262,112.189 94.323,116.836 "/>
+<polyline fill="none" stroke="#000000" points="94.323,145.444 98.262,140.797 "/>
+<polygon class="graph.slice.The_Devil's_Rejects" fill="#5C4C1B" points="94.323,145.444 94.323,116.836 90.573,121.599 90.573,150.207 "/>
+<polyline fill="none" stroke="#000000" points="94.323,116.836 90.573,121.599 90.573,150.207 94.323,145.444 "/>
+<polygon class="graph.slice.Hustle_and_Flow" fill="#591127" points="90.573,150.207 90.573,121.599 87.626,125.612 87.626,154.22 "/>
+<polyline fill="none" stroke="#000000" points="90.573,121.599 87.626,125.612 "/>
+<polyline fill="none" stroke="#000000" points="87.626,154.22 90.573,150.207 "/>
+<polygon class="graph.slice.Hustle_and_Flow" fill="#541025" points="87.626,154.22 87.626,125.612 84.234,130.572 84.234,159.18 "/>
+<polyline fill="none" stroke="#000000" points="87.626,125.612 84.234,130.572 "/>
+<polyline fill="none" stroke="#000000" points="84.234,159.18 87.626,154.22 "/>
+<polygon class="graph.slice.Hustle_and_Flow" fill="#4E0F22" points="84.234,159.18 84.234,130.572 81.043,135.632 81.043,164.24 "/>
+<polyline fill="none" stroke="#000000" points="84.234,130.572 81.043,135.632 "/>
+<polyline fill="none" stroke="#000000" points="81.043,164.24 84.234,159.18 "/>
+<polygon class="graph.slice.Hustle_and_Flow" fill="#480E20" points="81.043,164.24 81.043,135.632 78.059,140.786 78.059,169.394 "/>
+<polyline fill="none" stroke="#000000" points="81.043,135.632 78.059,140.786 "/>
+<polyline fill="none" stroke="#000000" points="78.059,169.394 81.043,164.24 "/>
+<polygon class="graph.slice.Hustle_and_Flow" fill="#430C1D" points="78.059,169.394 78.059,140.786 75.284,146.026 75.284,174.634 "/>
+<polyline fill="none" stroke="#000000" points="78.059,140.786 75.284,146.026 "/>
+<polyline fill="none" stroke="#000000" points="75.284,174.634 78.059,169.394 "/>
+<polygon class="graph.slice.Hustle_and_Flow" fill="#3D0B1B" points="75.284,174.634 75.284,146.026 72.722,151.347 72.722,179.955 "/>
+<polyline fill="none" stroke="#000000" points="75.284,146.026 72.722,151.347 "/>
+<polyline fill="none" stroke="#000000" points="72.722,179.955 75.284,174.634 "/>
+<polygon class="graph.slice.Hustle_and_Flow" fill="#370A18" points="72.722,179.955 72.722,151.347 70.376,156.742 70.376,185.35 "/>
+<polyline fill="none" stroke="#000000" points="72.722,151.347 70.376,156.742 "/>
+<polyline fill="none" stroke="#000000" points="70.376,185.35 72.722,179.955 "/>
+<polygon class="graph.slice.Hustle_and_Flow" fill="#320916" points="70.376,185.35 70.376,156.742 68.249,162.205 68.249,190.813 "/>
+<polyline fill="none" stroke="#000000" points="70.376,156.742 68.249,162.205 "/>
+<polyline fill="none" stroke="#000000" points="68.249,190.813 70.376,185.35 "/>
+<polygon class="graph.slice.Hustle_and_Flow" fill="#2C0813" points="68.249,190.813 68.249,162.205 66.343,167.729 66.343,196.337 "/>
+<polyline fill="none" stroke="#000000" points="68.249,162.205 66.343,167.729 "/>
+<polyline fill="none" stroke="#000000" points="66.343,196.337 68.249,190.813 "/>
+<polygon class="graph.slice.Hustle_and_Flow" fill="#260711" points="66.343,196.337 66.343,167.729 64.661,173.307 64.661,201.915 "/>
+<polyline fill="none" stroke="#000000" points="66.343,167.729 64.661,173.307 "/>
+<polyline fill="none" stroke="#000000" points="64.661,201.915 66.343,196.337 "/>
+<polygon class="graph.slice.Hustle_and_Flow" fill="#260711" points="64.661,201.915 64.661,173.307 63.205,178.933 63.205,207.541 "/>
+<polyline fill="none" stroke="#000000" points="64.661,173.307 63.205,178.933 "/>
+<polyline fill="none" stroke="#000000" points="63.205,207.541 64.661,201.915 "/>
+<polygon class="graph.slice.Hustle_and_Flow" fill="#260711" points="63.205,207.541 63.205,178.933 61.976,184.599 61.976,213.207 "/>
+<polyline fill="none" stroke="#000000" points="63.205,178.933 61.976,184.599 61.976,213.207 63.205,207.541 "/>
+<polygon class="graph.slice.War_of_the_Worlds" fill="#201626" points="61.976,213.207 61.976,184.599 61.115,189.423 61.115,218.031 "/>
+<polyline fill="none" stroke="#000000" points="61.976,184.599 61.115,189.423 "/>
+<polyline fill="none" stroke="#000000" points="61.115,218.031 61.976,213.207 "/>
+<polygon class="graph.slice.War_of_the_Worlds" fill="#201626" points="61.115,218.031 61.115,189.423 60.311,195.146 60.311,223.754 "/>
+<polyline fill="none" stroke="#000000" points="61.115,189.423 60.311,195.146 "/>
+<polyline fill="none" stroke="#000000" points="60.311,223.754 61.115,218.031 "/>
+<polygon class="graph.slice.War_of_the_Worlds" fill="#201626" points="60.311,223.754 60.311,195.146 59.737,200.89 59.737,229.498 "/>
+<polyline fill="none" stroke="#000000" points="60.311,195.146 59.737,200.89 "/>
+<polyline fill="none" stroke="#000000" points="59.737,229.498 60.311,223.754 "/>
+<polygon class="graph.slice.War_of_the_Worlds" fill="#201626" points="59.737,229.498 59.737,200.89 59.396,206.647 59.396,235.255 "/>
+<polyline fill="none" stroke="#000000" points="59.737,200.89 59.396,206.647 "/>
+<polyline fill="none" stroke="#000000" points="59.396,235.255 59.737,229.498 "/>
+<polygon class="graph.slice.Charlie_and_the_Chocolate_Factory" fill="#48C92F" points="432.026,191.536 432.026,162.928 431.391,161.204 431.391,189.812 "/>
+<polyline fill="none" stroke="#000000" points="431.391,189.812 432.026,191.536 432.026,162.928 431.391,161.204 "/>
+<polygon class="graph.slice.Charlie_and_the_Chocolate_Factory" fill="#48C92F" points="431.391,189.812 431.391,161.204 429.223,155.753 429.223,184.361 "/>
+<polyline fill="none" stroke="#000000" points="431.391,161.204 429.223,155.753 "/>
+<polyline fill="none" stroke="#000000" points="429.223,184.361 431.391,189.812 "/>
+<polygon class="graph.slice.Charlie_and_the_Chocolate_Factory" fill="#48C92F" points="429.223,184.361 429.223,155.753 426.838,150.37 426.838,178.978 "/>
+<polyline fill="none" stroke="#000000" points="429.223,155.753 426.838,150.37 "/>
+<polyline fill="none" stroke="#000000" points="426.838,178.978 429.223,184.361 "/>
+<polygon class="graph.slice.Charlie_and_the_Chocolate_Factory" fill="#48C92F" points="426.838,178.978 426.838,150.37 424.237,145.064 424.237,173.671 "/>
+<polyline fill="none" stroke="#000000" points="426.838,150.37 424.237,145.064 "/>
+<polyline fill="none" stroke="#000000" points="424.237,173.671 426.838,178.978 "/>
+<polygon class="graph.slice.Charlie_and_the_Chocolate_Factory" fill="#48C92F" points="424.237,173.671 424.237,145.064 421.423,139.839 421.423,168.446 "/>
+<polyline fill="none" stroke="#000000" points="424.237,145.064 421.423,139.839 "/>
+<polyline fill="none" stroke="#000000" points="421.423,168.446 424.237,173.671 "/>
+<polygon class="graph.slice.Charlie_and_the_Chocolate_Factory" fill="#48C92F" points="421.423,168.446 421.423,139.839 418.401,134.702 418.401,163.31 "/>
+<polyline fill="none" stroke="#000000" points="421.423,139.839 418.401,134.702 "/>
+<polyline fill="none" stroke="#000000" points="418.401,163.31 421.423,168.446 "/>
+<polygon class="graph.slice.Charlie_and_the_Chocolate_Factory" fill="#48C92F" points="418.401,163.31 418.401,134.702 415.174,129.659 415.174,158.267 "/>
+<polyline fill="none" stroke="#000000" points="418.401,134.702 415.174,129.659 "/>
+<polyline fill="none" stroke="#000000" points="415.174,158.267 418.401,163.31 "/>
+<polygon class="graph.slice.Charlie_and_the_Chocolate_Factory" fill="#48C92F" points="415.174,158.267 415.174,129.659 411.745,124.718 411.745,153.326 "/>
+<polyline fill="none" stroke="#000000" points="415.174,129.659 411.745,124.718 "/>
+<polyline fill="none" stroke="#000000" points="411.745,153.326 415.174,158.267 "/>
+<polygon class="graph.slice.Charlie_and_the_Chocolate_Factory" fill="#48C92F" points="411.745,153.326 411.745,124.718 408.119,119.883 408.119,148.491 "/>
+<polyline fill="none" stroke="#000000" points="411.745,124.718 408.119,119.883 "/>
+<polyline fill="none" stroke="#000000" points="408.119,148.491 411.745,153.326 "/>
+<polygon class="graph.slice.Charlie_and_the_Chocolate_Factory" fill="#48C92F" points="408.119,148.491 408.119,119.883 404.301,115.16 404.301,143.768 "/>
+<polyline fill="none" stroke="#000000" points="408.119,119.883 404.301,115.16 "/>
+<polyline fill="none" stroke="#000000" points="404.301,143.768 408.119,148.491 "/>
+<polygon class="graph.slice.Charlie_and_the_Chocolate_Factory" fill="#48C92F" points="404.301,143.768 404.301,115.16 400.295,110.556 400.295,139.164 "/>
+<polyline fill="none" stroke="#000000" points="404.301,115.16 400.295,110.556 "/>
+<polyline fill="none" stroke="#000000" points="400.295,139.164 404.301,143.768 "/>
+<polygon class="graph.slice.Charlie_and_the_Chocolate_Factory" fill="#48C92F" points="400.295,139.164 400.295,110.556 396.105,106.075 396.105,134.683 "/>
+<polyline fill="none" stroke="#000000" points="400.295,110.556 396.105,106.075 "/>
+<polyline fill="none" stroke="#000000" points="396.105,134.683 400.295,139.164 "/>
+<polygon class="graph.slice.Charlie_and_the_Chocolate_Factory" fill="#48C92F" points="396.105,134.683 396.105,106.075 391.738,101.724 391.738,130.332 "/>
+<polyline fill="none" stroke="#000000" points="396.105,106.075 391.738,101.724 "/>
+<polyline fill="none" stroke="#000000" points="391.738,130.332 396.105,134.683 "/>
+<polygon class="graph.slice.Charlie_and_the_Chocolate_Factory" fill="#48C92F" points="391.738,130.332 391.738,101.724 387.198,97.508 387.198,126.116 "/>
+<polyline fill="none" stroke="#000000" points="391.738,101.724 387.198,97.508 "/>
+<polyline fill="none" stroke="#000000" points="387.198,126.116 391.738,130.332 "/>
+<polygon class="graph.slice.Charlie_and_the_Chocolate_Factory" fill="#48C92F" points="387.198,126.116 387.198,97.508 382.491,93.431 382.491,122.039 "/>
+<polyline fill="none" stroke="#000000" points="387.198,97.508 382.491,93.431 "/>
+<polyline fill="none" stroke="#000000" points="382.491,122.039 387.198,126.116 "/>
+<polygon class="graph.slice.Charlie_and_the_Chocolate_Factory" fill="#48C92F" points="382.491,122.039 382.491,93.431 377.622,89.5 377.622,118.108 "/>
+<polyline fill="none" stroke="#000000" points="382.491,93.431 377.622,89.5 "/>
+<polyline fill="none" stroke="#000000" points="377.622,118.108 382.491,122.039 "/>
+<polygon class="graph.slice.Charlie_and_the_Chocolate_Factory" fill="#48C92F" points="377.622,118.108 377.622,89.5 372.598,85.717 372.598,114.325 "/>
+<polyline fill="none" stroke="#000000" points="377.622,89.5 372.598,85.717 "/>
+<polyline fill="none" stroke="#000000" points="372.598,114.325 377.622,118.108 "/>
+<polygon class="graph.slice.Charlie_and_the_Chocolate_Factory" fill="#48C92F" points="372.598,114.325 372.598,85.717 367.424,82.089 367.424,110.697 "/>
+<polyline fill="none" stroke="#000000" points="372.598,85.717 367.424,82.089 "/>
+<polyline fill="none" stroke="#000000" points="367.424,110.697 372.598,114.325 "/>
+<polygon class="graph.slice.Charlie_and_the_Chocolate_Factory" fill="#48C92F" points="367.424,110.697 367.424,82.089 362.108,78.62 362.108,107.228 "/>
+<polyline fill="none" stroke="#000000" points="367.424,82.089 362.108,78.62 "/>
+<polyline fill="none" stroke="#000000" points="362.108,107.228 367.424,110.697 "/>
+<polygon class="graph.slice.Charlie_and_the_Chocolate_Factory" fill="#48C92F" points="362.108,107.228 362.108,78.62 356.655,75.313 356.655,103.921 "/>
+<polyline fill="none" stroke="#000000" points="362.108,78.62 356.655,75.313 "/>
+<polyline fill="none" stroke="#000000" points="356.655,103.921 362.108,107.228 "/>
+<polygon class="graph.slice.Charlie_and_the_Chocolate_Factory" fill="#48C92F" points="356.655,103.921 356.655,75.313 351.072,72.173 351.072,100.781 "/>
+<polyline fill="none" stroke="#000000" points="356.655,75.313 351.072,72.173 "/>
+<polyline fill="none" stroke="#000000" points="351.072,100.781 356.655,103.921 "/>
+<polygon class="graph.slice.Charlie_and_the_Chocolate_Factory" fill="#48C92F" points="351.072,100.781 351.072,72.173 345.365,69.204 345.365,97.812 "/>
+<polyline fill="none" stroke="#000000" points="351.072,72.173 345.365,69.204 "/>
+<polyline fill="none" stroke="#000000" points="345.365,97.812 351.072,100.781 "/>
+<polygon class="graph.slice.Charlie_and_the_Chocolate_Factory" fill="#48C92F" points="345.365,97.812 345.365,69.204 339.543,66.409 339.543,95.017 "/>
+<polyline fill="none" stroke="#000000" points="345.365,69.204 339.543,66.409 "/>
+<polyline fill="none" stroke="#000000" points="339.543,95.017 345.365,97.812 "/>
+<polygon class="graph.slice.Charlie_and_the_Chocolate_Factory" fill="#48C92F" points="339.543,95.017 339.543,66.409 333.612,63.791 333.612,92.399 "/>
+<polyline fill="none" stroke="#000000" points="339.543,66.409 333.612,63.791 "/>
+<polyline fill="none" stroke="#000000" points="333.612,92.399 339.543,95.017 "/>
+<polygon class="graph.slice.Charlie_and_the_Chocolate_Factory" fill="#48C92F" points="333.612,92.399 333.612,63.791 327.578,61.355 327.578,89.963 "/>
+<polyline fill="none" stroke="#000000" points="333.612,63.791 327.578,61.355 "/>
+<polyline fill="none" stroke="#000000" points="327.578,89.963 333.612,92.399 "/>
+<polygon class="graph.slice.Charlie_and_the_Chocolate_Factory" fill="#48C92F" points="327.578,89.963 327.578,61.355 321.45,59.102 321.45,87.71 "/>
+<polyline fill="none" stroke="#000000" points="327.578,61.355 321.45,59.102 "/>
+<polyline fill="none" stroke="#000000" points="321.45,87.71 327.578,89.963 "/>
+<polygon class="graph.slice.Charlie_and_the_Chocolate_Factory" fill="#48C92F" points="321.45,87.71 321.45,59.102 315.236,57.036 315.236,85.644 "/>
+<polyline fill="none" stroke="#000000" points="321.45,59.102 315.236,57.036 "/>
+<polyline fill="none" stroke="#000000" points="315.236,85.644 321.45,87.71 "/>
+<polygon class="graph.slice.Charlie_and_the_Chocolate_Factory" fill="#48C92F" points="315.236,85.644 315.236,57.036 308.941,55.159 308.941,83.767 "/>
+<polyline fill="none" stroke="#000000" points="315.236,57.036 308.941,55.159 "/>
+<polyline fill="none" stroke="#000000" points="308.941,83.767 315.236,85.644 "/>
+<polygon class="graph.slice.Charlie_and_the_Chocolate_Factory" fill="#48C92F" points="308.941,83.767 308.941,55.159 302.575,53.474 302.575,82.082 "/>
+<polyline fill="none" stroke="#000000" points="308.941,55.159 302.575,53.474 "/>
+<polyline fill="none" stroke="#000000" points="302.575,82.082 308.941,83.767 "/>
+<polygon class="graph.slice.Charlie_and_the_Chocolate_Factory" fill="#48C92F" points="302.575,82.082 302.575,53.474 296.145,51.982 296.145,80.59 "/>
+<polyline fill="none" stroke="#000000" points="302.575,53.474 296.145,51.982 "/>
+<polyline fill="none" stroke="#000000" points="296.145,80.59 302.575,82.082 "/>
+<polygon class="graph.slice.Charlie_and_the_Chocolate_Factory" fill="#48C92F" points="296.145,80.59 296.145,51.982 289.659,50.685 289.659,79.293 "/>
+<polyline fill="none" stroke="#000000" points="296.145,51.982 289.659,50.685 "/>
+<polyline fill="none" stroke="#000000" points="289.659,79.293 296.145,80.59 "/>
+<polygon class="graph.slice.Charlie_and_the_Chocolate_Factory" fill="#48C92F" points="289.659,79.293 289.659,50.685 283.124,49.585 283.124,78.193 "/>
+<polyline fill="none" stroke="#000000" points="289.659,50.685 283.124,49.585 "/>
+<polyline fill="none" stroke="#000000" points="283.124,78.193 289.659,79.293 "/>
+<polygon class="graph.slice.Charlie_and_the_Chocolate_Factory" fill="#48C92F" points="283.124,78.193 283.124,49.585 276.549,48.683 276.549,77.291 "/>
+<polyline fill="none" stroke="#000000" points="283.124,49.585 276.549,48.683 "/>
+<polyline fill="none" stroke="#000000" points="276.549,77.291 283.124,78.193 "/>
+<polygon class="graph.slice.Charlie_and_the_Chocolate_Factory" fill="#48C92F" points="276.549,77.291 276.549,48.683 269.941,47.98 269.941,76.588 "/>
+<polyline fill="none" stroke="#000000" points="276.549,48.683 269.941,47.98 "/>
+<polyline fill="none" stroke="#000000" points="269.941,76.588 276.549,77.291 "/>
+<polygon class="graph.slice.Charlie_and_the_Chocolate_Factory" fill="#48C92F" points="269.941,76.588 269.941,47.98 263.31,47.478 263.31,76.086 "/>
+<polyline fill="none" stroke="#000000" points="269.941,47.98 263.31,47.478 "/>
+<polyline fill="none" stroke="#000000" points="263.31,76.086 269.941,76.588 "/>
+<polygon class="graph.slice.Charlie_and_the_Chocolate_Factory" fill="#48C92F" points="263.31,76.086 263.31,47.478 256.662,47.176 256.662,75.784 "/>
+<polyline fill="none" stroke="#000000" points="263.31,47.478 256.662,47.176 "/>
+<polyline fill="none" stroke="#000000" points="256.662,75.784 263.31,76.086 "/>
+<polygon class="graph.slice.Charlie_and_the_Chocolate_Factory" fill="#48C92F" points="256.662,75.784 256.662,47.176 250.006,47.075 250.006,75.683 "/>
+<polyline fill="none" stroke="#000000" points="256.662,47.176 250.006,47.075 "/>
+<polyline fill="none" stroke="#000000" points="250.006,75.683 256.662,75.784 "/>
+<polygon class="graph.slice.Charlie_and_the_Chocolate_Factory" fill="#48C92F" points="250.006,75.683 250.006,47.075 243.35,47.176 243.35,75.784 "/>
+<polyline fill="none" stroke="#000000" points="250.006,47.075 243.35,47.176 "/>
+<polyline fill="none" stroke="#000000" points="243.35,75.784 250.006,75.683 "/>
+<polygon class="graph.slice.Charlie_and_the_Chocolate_Factory" fill="#45C12D" points="243.35,75.784 243.35,47.176 236.702,47.478 236.702,76.086 "/>
+<polyline fill="none" stroke="#000000" points="243.35,47.176 236.702,47.478 "/>
+<polyline fill="none" stroke="#000000" points="236.702,76.086 243.35,75.784 "/>
+<polygon class="graph.slice.Charlie_and_the_Chocolate_Factory" fill="#43BB2C" points="236.702,76.086 236.702,47.478 230.07,47.98 230.07,76.588 "/>
+<polyline fill="none" stroke="#000000" points="236.702,47.478 230.07,47.98 "/>
+<polyline fill="none" stroke="#000000" points="230.07,76.588 236.702,76.086 "/>
+<polygon class="graph.slice.Charlie_and_the_Chocolate_Factory" fill="#41B52A" points="230.07,76.588 230.07,47.98 223.463,48.683 223.463,77.291 "/>
+<polyline fill="none" stroke="#000000" points="230.07,47.98 223.463,48.683 "/>
+<polyline fill="none" stroke="#000000" points="223.463,77.291 230.07,76.588 "/>
+<polygon class="graph.slice.Charlie_and_the_Chocolate_Factory" fill="#3FB029" points="223.463,77.291 223.463,48.683 216.888,49.585 216.888,78.193 "/>
+<polyline fill="none" stroke="#000000" points="223.463,48.683 216.888,49.585 "/>
+<polyline fill="none" stroke="#000000" points="216.888,78.193 223.463,77.291 "/>
+<polygon class="graph.slice.Wedding_Crashers" fill="#CA8327" points="432.026,162.928 250.006,212.243 250.006,240.851 432.026,191.536 "/>
+<polyline fill="none" stroke="#000000" points="432.026,191.536 432.026,162.928 250.006,212.243 250.006,240.851 432.026,191.536 "/>
+<polygon class="graph.slice.Charlie_and_the_Chocolate_Factory" fill="#48C92F" points="250.006,212.243 432.026,162.928 432.026,191.536 250.006,240.851 "/>
+<polyline fill="none" stroke="#000000" points="250.006,240.851 250.006,212.243 432.026,162.928 432.026,191.536 250.006,240.851 "/>
+<polygon class="graph.slice.Wedding_Crashers" fill="#FBA331" points="440.671,236.896 440.671,208.288 440.395,202.528 440.395,231.136 "/>
+<polyline fill="none" stroke="#000000" points="440.671,208.288 440.395,202.528 "/>
+<polyline fill="none" stroke="#000000" points="440.395,231.136 440.671,236.896 "/>
+<polygon class="graph.slice.Wedding_Crashers" fill="#FBA331" points="440.395,231.136 440.395,202.528 439.887,196.779 439.887,225.387 "/>
+<polyline fill="none" stroke="#000000" points="440.395,202.528 439.887,196.779 "/>
+<polyline fill="none" stroke="#000000" points="439.887,225.387 440.395,231.136 "/>
+<polygon class="graph.slice.Wedding_Crashers" fill="#FBA331" points="439.887,225.387 439.887,196.779 439.149,191.05 439.149,219.658 "/>
+<polyline fill="none" stroke="#000000" points="439.887,196.779 439.149,191.05 "/>
+<polyline fill="none" stroke="#000000" points="439.149,219.658 439.887,225.387 "/>
+<polygon class="graph.slice.Wedding_Crashers" fill="#FBA331" points="439.149,219.658 439.149,191.05 438.179,185.346 438.179,213.954 "/>
+<polyline fill="none" stroke="#000000" points="439.149,191.05 438.179,185.346 "/>
+<polyline fill="none" stroke="#000000" points="438.179,213.954 439.149,219.658 "/>
+<polygon class="graph.slice.Wedding_Crashers" fill="#FBA331" points="438.179,213.954 438.179,185.346 436.981,179.675 436.981,208.283 "/>
+<polyline fill="none" stroke="#000000" points="438.179,185.346 436.981,179.675 "/>
+<polyline fill="none" stroke="#000000" points="436.981,208.283 438.179,213.954 "/>
+<polygon class="graph.slice.Wedding_Crashers" fill="#FBA331" points="436.981,208.283 436.981,179.675 435.554,174.044 435.554,202.652 "/>
+<polyline fill="none" stroke="#000000" points="436.981,179.675 435.554,174.044 "/>
+<polyline fill="none" stroke="#000000" points="435.554,202.652 436.981,208.283 "/>
+<polygon class="graph.slice.Wedding_Crashers" fill="#FBA331" points="435.554,202.652 435.554,174.044 433.902,168.459 433.902,197.067 "/>
+<polyline fill="none" stroke="#000000" points="435.554,174.044 433.902,168.459 "/>
+<polyline fill="none" stroke="#000000" points="433.902,197.067 435.554,202.652 "/>
+<polygon class="graph.slice.Wedding_Crashers" fill="#FBA331" points="433.902,197.067 433.902,168.459 432.026,162.928 432.026,191.536 "/>
+<polyline fill="none" stroke="#000000" points="433.902,168.459 432.026,162.928 432.026,191.536 433.902,197.067 "/>
+<polygon class="graph.slice.Wedding_Crashers" fill="#FBA331" points="440.103,254.177 440.103,225.569 440.525,219.816 440.525,248.424 "/>
+<polyline fill="none" stroke="#000000" points="440.103,225.569 440.525,219.816 "/>
+<polyline fill="none" stroke="#000000" points="440.525,248.424 440.103,254.177 "/>
+<polygon class="graph.slice.Wedding_Crashers" fill="#FBA331" points="439.451,259.915 439.451,231.307 440.103,225.569 440.103,254.177 "/>
+<polyline fill="none" stroke="#000000" points="439.451,231.307 440.103,225.569 "/>
+<polyline fill="none" stroke="#000000" points="440.103,254.177 439.451,259.915 "/>
+<polygon class="graph.slice.Wedding_Crashers" fill="#FBA331" points="438.567,265.629 438.567,237.021 439.451,231.307 439.451,259.915 "/>
+<polyline fill="none" stroke="#000000" points="438.567,237.021 439.451,231.307 "/>
+<polyline fill="none" stroke="#000000" points="439.451,259.915 438.567,265.629 "/>
+<polygon class="graph.slice.Wedding_Crashers" fill="#FBA331" points="437.454,271.313 437.454,242.705 438.567,237.021 438.567,265.629 "/>
+<polyline fill="none" stroke="#000000" points="437.454,242.705 438.567,237.021 "/>
+<polyline fill="none" stroke="#000000" points="438.567,265.629 437.454,271.313 "/>
+<polygon class="graph.slice.Wedding_Crashers" fill="#FBA331" points="436.112,276.96 436.112,248.352 437.454,242.705 437.454,271.313 "/>
+<polyline fill="none" stroke="#000000" points="436.112,248.352 437.454,242.705 "/>
+<polyline fill="none" stroke="#000000" points="437.454,271.313 436.112,276.96 "/>
+<polygon class="graph.slice.Wedding_Crashers" fill="#FBA331" points="434.543,282.562 434.543,253.955 436.112,248.352 436.112,276.96 "/>
+<polyline fill="none" stroke="#000000" points="434.543,253.955 436.112,248.352 "/>
+<polyline fill="none" stroke="#000000" points="436.112,276.96 434.543,282.562 "/>
+<polygon class="graph.slice.Wedding_Crashers" fill="#FBA331" points="432.75,288.115 432.75,259.507 434.543,253.955 434.543,282.562 "/>
+<polyline fill="none" stroke="#000000" points="432.75,259.507 434.543,253.955 "/>
+<polyline fill="none" stroke="#000000" points="434.543,282.562 432.75,288.115 "/>
+<polygon class="graph.slice.Wedding_Crashers" fill="#FBA331" points="430.734,293.609 430.734,265.001 432.75,259.507 432.75,288.115 "/>
+<polyline fill="none" stroke="#000000" points="430.734,265.001 432.75,259.507 "/>
+<polyline fill="none" stroke="#000000" points="432.75,288.115 430.734,293.609 "/>
+<polygon class="graph.slice.Wedding_Crashers" fill="#FBA331" points="428.498,299.039 428.498,270.431 430.734,265.001 430.734,293.609 "/>
+<polyline fill="none" stroke="#000000" points="428.498,270.431 430.734,265.001 "/>
+<polyline fill="none" stroke="#000000" points="430.734,293.609 428.498,299.039 "/>
+<polygon class="graph.slice.Wedding_Crashers" fill="#FBA331" points="426.044,304.398 426.044,275.79 428.498,270.431 428.498,299.039 "/>
+<polyline fill="none" stroke="#000000" points="426.044,275.79 428.498,270.431 "/>
+<polyline fill="none" stroke="#000000" points="428.498,299.039 426.044,304.398 "/>
+<polygon class="graph.slice.Wedding_Crashers" fill="#FBA331" points="423.376,309.68 423.376,281.072 426.044,275.79 426.044,304.398 "/>
+<polyline fill="none" stroke="#000000" points="423.376,281.072 426.044,275.79 "/>
+<polyline fill="none" stroke="#000000" points="426.044,304.398 423.376,309.68 "/>
+<polygon class="graph.slice.Wedding_Crashers" fill="#FBA331" points="420.497,314.878 420.497,286.27 423.376,281.072 423.376,309.68 "/>
+<polyline fill="none" stroke="#000000" points="420.497,286.27 423.376,281.072 "/>
+<polyline fill="none" stroke="#000000" points="423.376,309.68 420.497,314.878 "/>
+<polygon class="graph.slice.Wedding_Crashers" fill="#FBA331" points="417.41,319.986 417.41,291.378 420.497,286.27 420.497,314.878 "/>
+<polyline fill="none" stroke="#000000" points="417.41,291.378 420.497,286.27 "/>
+<polyline fill="none" stroke="#000000" points="420.497,314.878 417.41,319.986 "/>
+<polygon class="graph.slice.Wedding_Crashers" fill="#FBA331" points="414.119,324.997 414.119,296.39 417.41,291.378 417.41,319.986 "/>
+<polyline fill="none" stroke="#000000" points="414.119,296.39 417.41,291.378 "/>
+<polyline fill="none" stroke="#000000" points="417.41,319.986 414.119,324.997 "/>
+<polygon class="graph.slice.Wedding_Crashers" fill="#FBA331" points="410.628,329.906 410.628,301.298 414.119,296.39 414.119,324.997 "/>
+<polyline fill="none" stroke="#000000" points="410.628,301.298 414.119,296.39 "/>
+<polyline fill="none" stroke="#000000" points="414.119,324.997 410.628,329.906 "/>
+<polygon class="graph.slice.Wedding_Crashers" fill="#FBA331" points="406.941,334.707 406.941,306.099 410.628,301.298 410.628,329.906 "/>
+<polyline fill="none" stroke="#000000" points="406.941,306.099 410.628,301.298 "/>
+<polyline fill="none" stroke="#000000" points="410.628,329.906 406.941,334.707 "/>
+<polygon class="graph.slice.Wedding_Crashers" fill="#FBA331" points="403.064,339.393 403.064,310.785 406.941,306.099 406.941,334.707 "/>
+<polyline fill="none" stroke="#000000" points="403.064,310.785 406.941,306.099 "/>
+<polyline fill="none" stroke="#000000" points="406.941,334.707 403.064,339.393 "/>
+<polygon class="graph.slice.Wedding_Crashers" fill="#FBA331" points="398.999,343.959 398.999,315.351 403.064,310.785 403.064,339.393 "/>
+<polyline fill="none" stroke="#000000" points="398.999,315.351 403.064,310.785 "/>
+<polyline fill="none" stroke="#000000" points="403.064,339.393 398.999,343.959 "/>
+<polygon class="graph.slice.Wedding_Crashers" fill="#FBA331" points="394.753,348.399 394.753,319.791 398.999,315.351 398.999,343.959 "/>
+<polyline fill="none" stroke="#000000" points="394.753,319.791 398.999,315.351 "/>
+<polyline fill="none" stroke="#000000" points="398.999,343.959 394.753,348.399 "/>
+<polygon class="graph.slice.Wedding_Crashers" fill="#FBA331" points="390.331,352.708 390.331,324.1 394.753,319.791 394.753,348.399 "/>
+<polyline fill="none" stroke="#000000" points="390.331,324.1 394.753,319.791 "/>
+<polyline fill="none" stroke="#000000" points="394.753,348.399 390.331,352.708 "/>
+<polygon class="graph.slice.Wedding_Crashers" fill="#FBA331" points="385.738,356.881 385.738,328.274 390.331,324.1 390.331,352.708 "/>
+<polyline fill="none" stroke="#000000" points="385.738,328.274 390.331,324.1 "/>
+<polyline fill="none" stroke="#000000" points="390.331,352.708 385.738,356.881 "/>
+<polygon class="graph.slice.Wedding_Crashers" fill="#FBA331" points="380.98,360.913 380.98,332.305 385.738,328.274 385.738,356.881 "/>
+<polyline fill="none" stroke="#000000" points="380.98,332.305 385.738,328.274 "/>
+<polyline fill="none" stroke="#000000" points="385.738,356.881 380.98,360.913 "/>
+<polygon class="graph.slice.Wedding_Crashers" fill="#FBA331" points="376.062,364.799 376.062,336.191 380.98,332.305 380.98,360.913 "/>
+<polyline fill="none" stroke="#000000" points="376.062,336.191 380.98,332.305 "/>
+<polyline fill="none" stroke="#000000" points="380.98,360.913 376.062,364.799 "/>
+<polygon class="graph.slice.Wedding_Crashers" fill="#FBA331" points="370.99,368.533 370.99,339.925 376.062,336.191 376.062,364.799 "/>
+<polyline fill="none" stroke="#000000" points="370.99,339.925 376.062,336.191 "/>
+<polyline fill="none" stroke="#000000" points="376.062,364.799 370.99,368.533 "/>
+<polygon class="graph.slice.Wedding_Crashers" fill="#FBA331" points="365.771,372.112 365.771,343.504 370.99,339.925 370.99,368.533 "/>
+<polyline fill="none" stroke="#000000" points="365.771,343.504 370.99,339.925 "/>
+<polyline fill="none" stroke="#000000" points="370.99,368.533 365.771,372.112 "/>
+<polygon class="graph.slice.Wedding_Crashers" fill="#FBA331" points="360.411,375.531 360.411,346.923 365.771,343.504 365.771,372.112 "/>
+<polyline fill="none" stroke="#000000" points="360.411,346.923 365.771,343.504 "/>
+<polyline fill="none" stroke="#000000" points="365.771,372.112 360.411,375.531 "/>
+<polygon class="graph.slice.Wedding_Crashers" fill="#FBA331" points="354.916,378.785 354.916,350.178 360.411,346.923 360.411,375.531 "/>
+<polyline fill="none" stroke="#000000" points="354.916,350.178 360.411,346.923 "/>
+<polyline fill="none" stroke="#000000" points="360.411,375.531 354.916,378.785 "/>
+<polygon class="graph.slice.Wedding_Crashers" fill="#FBA331" points="349.294,381.872 349.294,353.264 354.916,350.178 354.916,378.785 "/>
+<polyline fill="none" stroke="#000000" points="349.294,353.264 354.916,350.178 "/>
+<polyline fill="none" stroke="#000000" points="354.916,378.785 349.294,381.872 "/>
+<polygon class="graph.slice.Wedding_Crashers" fill="#FBA331" points="347.879,382.612 347.879,354.004 349.294,353.264 349.294,381.872 "/>
+<polyline fill="none" stroke="#000000" points="349.294,381.872 347.879,382.612 347.879,354.004 349.294,353.264 "/>
+<polygon class="graph.slice.March_of_the_Penguins" fill="#262626" points="176.852,59.709 250.006,212.243 250.006,240.851 176.852,88.316 "/>
+<polyline fill="none" stroke="#000000" points="176.852,88.316 176.852,59.709 250.006,212.243 250.006,240.851 176.852,88.316 "/>
+<polygon class="graph.slice.Fantastic_Four" fill="#FA7BD5" points="347.879,354.004 250.006,212.243 250.006,240.851 347.879,382.612 "/>
+<polyline fill="none" stroke="#000000" points="347.879,382.612 347.879,354.004 250.006,212.243 250.006,240.851 347.879,382.612 "/>
+<polygon class="graph.slice.Wedding_Crashers" fill="#533610" points="250.006,212.243 347.879,354.004 347.879,382.612 250.006,240.851 "/>
+<polyline fill="none" stroke="#000000" points="250.006,240.851 250.006,212.243 347.879,354.004 347.879,382.612 250.006,240.851 "/>
+<polygon class="graph.slice.Batman_Begins" fill="#323267" points="137.158,79.091 250.006,212.243 250.006,240.851 137.158,107.699 "/>
+<polyline fill="none" stroke="#000000" points="137.158,107.699 137.158,79.091 250.006,212.243 250.006,240.851 137.158,107.699 "/>
+<polygon class="graph.slice.The_Devil's_Rejects" fill="#9C802D" points="90.573,121.599 250.006,212.243 250.006,240.851 90.573,150.207 "/>
+<polyline fill="none" stroke="#000000" points="90.573,150.207 90.573,121.599 250.006,212.243 250.006,240.851 90.573,150.207 "/>
+<polygon class="graph.slice.Hustle_and_Flow" fill="#E12A62" points="61.976,184.599 250.006,212.243 250.006,240.851 61.976,213.207 "/>
+<polyline fill="none" stroke="#000000" points="61.976,213.207 61.976,184.599 250.006,212.243 250.006,240.851 61.976,213.207 "/>
+<polygon class="graph.slice.War_of_the_Worlds" fill="#BC81E2" points="66.728,257.932 250.006,212.243 250.006,240.851 66.728,286.54 "/>
+<polyline fill="none" stroke="#000000" points="66.728,286.54 66.728,257.932 250.006,212.243 250.006,240.851 66.728,286.54 "/>
+<polygon class="graph.slice.The_Bad_News_Bears" fill="#D2D200" points="250.006,212.243 66.728,257.932 66.728,286.54 250.006,240.851 "/>
+<polyline fill="none" stroke="#000000" points="250.006,240.851 250.006,212.243 66.728,257.932 66.728,286.54 250.006,240.851 "/>
+<polygon class="graph.slice.The_Bad_News_Bears" fill="#FFFF00" points="126.485,338.091 250.006,212.243 250.006,240.851 126.485,366.699 "/>
+<polyline fill="none" stroke="#000000" points="126.485,366.699 126.485,338.091 250.006,212.243 250.006,240.851 126.485,366.699 "/>
+<polygon class="graph.slice.The_Island" fill="#007272" points="250.006,212.243 126.485,338.091 126.485,366.699 250.006,240.851 "/>
+<polyline fill="none" stroke="#000000" points="250.006,240.851 250.006,212.243 126.485,338.091 126.485,366.699 250.006,240.851 "/>
+<polygon class="graph.slice.The_Island" fill="#00FFFF" points="233.262,376.774 250.006,212.243 250.006,240.851 233.262,405.382 "/>
+<polyline fill="none" stroke="#000000" points="233.262,405.382 233.262,376.774 250.006,212.243 250.006,240.851 233.262,405.382 "/>
+<polygon class="graph.slice.Fantastic_Four" fill="#261321" points="250.006,212.243 233.262,376.774 233.262,405.382 250.006,240.851 "/>
+<polyline fill="none" stroke="#000000" points="250.006,240.851 250.006,212.243 233.262,376.774 233.262,405.382 250.006,240.851 "/>
+<polygon class="graph.slice.Fantastic_Four" fill="#FA7BD5" points="342.107,385.484 342.107,356.876 347.879,354.004 347.879,382.612 "/>
+<polyline fill="none" stroke="#000000" points="342.107,356.876 347.879,354.004 347.879,382.612 342.107,385.484 "/>
+<polygon class="graph.slice.Fantastic_Four" fill="#FA7BD5" points="336.222,388.179 336.222,359.571 342.107,356.876 342.107,385.484 "/>
+<polyline fill="none" stroke="#000000" points="336.222,359.571 342.107,356.876 "/>
+<polyline fill="none" stroke="#000000" points="342.107,385.484 336.222,388.179 "/>
+<polygon class="graph.slice.Fantastic_Four" fill="#FA7BD5" points="330.233,390.695 330.233,362.087 336.222,359.571 336.222,388.179 "/>
+<polyline fill="none" stroke="#000000" points="330.233,362.087 336.222,359.571 "/>
+<polyline fill="none" stroke="#000000" points="336.222,388.179 330.233,390.695 "/>
+<polygon class="graph.slice.Fantastic_Four" fill="#FA7BD5" points="324.145,393.029 324.145,364.421 330.233,362.087 330.233,390.695 "/>
+<polyline fill="none" stroke="#000000" points="324.145,364.421 330.233,362.087 "/>
+<polyline fill="none" stroke="#000000" points="330.233,390.695 324.145,393.029 "/>
+<polygon class="graph.slice.Fantastic_Four" fill="#FA7BD5" points="317.968,395.177 317.968,366.569 324.145,364.421 324.145,393.029 "/>
+<polyline fill="none" stroke="#000000" points="317.968,366.569 324.145,364.421 "/>
+<polyline fill="none" stroke="#000000" points="324.145,393.029 317.968,395.177 "/>
+<polygon class="graph.slice.Fantastic_Four" fill="#FA7BD5" points="311.707,397.137 311.707,368.529 317.968,366.569 317.968,395.177 "/>
+<polyline fill="none" stroke="#000000" points="311.707,368.529 317.968,366.569 "/>
+<polyline fill="none" stroke="#000000" points="317.968,395.177 311.707,397.137 "/>
+<polygon class="graph.slice.Fantastic_Four" fill="#FA7BD5" points="305.372,398.906 305.372,370.299 311.707,368.529 311.707,397.137 "/>
+<polyline fill="none" stroke="#000000" points="305.372,370.299 311.707,368.529 "/>
+<polyline fill="none" stroke="#000000" points="311.707,397.137 305.372,398.906 "/>
+<polygon class="graph.slice.Fantastic_Four" fill="#FA7BD5" points="298.968,400.484 298.968,371.876 305.372,370.299 305.372,398.906 "/>
+<polyline fill="none" stroke="#000000" points="298.968,371.876 305.372,370.299 "/>
+<polyline fill="none" stroke="#000000" points="305.372,398.906 298.968,400.484 "/>
+<polygon class="graph.slice.Fantastic_Four" fill="#FA7BD5" points="292.506,401.866 292.506,373.258 298.968,371.876 298.968,400.484 "/>
+<polyline fill="none" stroke="#000000" points="292.506,373.258 298.968,371.876 "/>
+<polyline fill="none" stroke="#000000" points="298.968,400.484 292.506,401.866 "/>
+<polygon class="graph.slice.Fantastic_Four" fill="#FA7BD5" points="285.991,403.053 285.991,374.445 292.506,373.258 292.506,401.866 "/>
+<polyline fill="none" stroke="#000000" points="285.991,374.445 292.506,373.258 "/>
+<polyline fill="none" stroke="#000000" points="292.506,401.866 285.991,403.053 "/>
+<polygon class="graph.slice.Fantastic_Four" fill="#FA7BD5" points="279.433,404.041 279.433,375.433 285.991,374.445 285.991,403.053 "/>
+<polyline fill="none" stroke="#000000" points="279.433,375.433 285.991,374.445 "/>
+<polyline fill="none" stroke="#000000" points="285.991,403.053 279.433,404.041 "/>
+<polygon class="graph.slice.Fantastic_Four" fill="#FA7BD5" points="272.839,404.831 272.839,376.223 279.433,375.433 279.433,404.041 "/>
+<polyline fill="none" stroke="#000000" points="272.839,376.223 279.433,375.433 "/>
+<polyline fill="none" stroke="#000000" points="279.433,404.041 272.839,404.831 "/>
+<polygon class="graph.slice.Fantastic_Four" fill="#FA7BD5" points="266.216,405.422 266.216,376.814 272.839,376.223 272.839,404.831 "/>
+<polyline fill="none" stroke="#000000" points="266.216,376.814 272.839,376.223 "/>
+<polyline fill="none" stroke="#000000" points="272.839,404.831 266.216,405.422 "/>
+<polygon class="graph.slice.Fantastic_Four" fill="#FA7BD5" points="259.575,405.811 259.575,377.203 266.216,376.814 266.216,405.422 "/>
+<polyline fill="none" stroke="#000000" points="259.575,377.203 266.216,376.814 "/>
+<polyline fill="none" stroke="#000000" points="266.216,405.422 259.575,405.811 "/>
+<polygon class="graph.slice.Fantastic_Four" fill="#FA7BD5" points="252.921,406 252.921,377.392 259.575,377.203 259.575,405.811 "/>
+<polyline fill="none" stroke="#000000" points="252.921,377.392 259.575,377.203 "/>
+<polyline fill="none" stroke="#000000" points="259.575,405.811 252.921,406 "/>
+<polygon class="graph.slice.Fantastic_Four" fill="#FA7BD5" points="246.264,405.988 246.264,377.38 252.921,377.392 252.921,406 "/>
+<polyline fill="none" stroke="#000000" points="246.264,377.38 252.921,377.392 "/>
+<polyline fill="none" stroke="#000000" points="252.921,406 246.264,405.988 "/>
+<polygon class="graph.slice.Fantastic_Four" fill="#F478D0" points="239.612,405.774 239.612,377.166 246.264,377.38 246.264,405.988 "/>
+<polyline fill="none" stroke="#000000" points="239.612,377.166 246.264,377.38 "/>
+<polyline fill="none" stroke="#000000" points="246.264,405.988 239.612,405.774 "/>
+<polygon class="graph.slice.Fantastic_Four" fill="#EE75CB" points="233.262,405.382 233.262,376.774 239.612,377.166 239.612,405.774 "/>
+<polyline fill="none" stroke="#000000" points="239.612,405.774 233.262,405.382 233.262,376.774 239.612,377.166 "/>
+<polygon class="graph.slice.The_Island" fill="#00EEEE" points="226.642,404.775 226.642,376.167 233.262,376.774 233.262,405.382 "/>
+<polyline fill="none" stroke="#000000" points="226.642,376.167 233.262,376.774 233.262,405.382 226.642,404.775 "/>
+<polygon class="graph.slice.The_Island" fill="#00E8E8" points="220.051,403.969 220.051,375.361 226.642,376.167 226.642,404.775 "/>
+<polyline fill="none" stroke="#000000" points="220.051,375.361 226.642,376.167 "/>
+<polyline fill="none" stroke="#000000" points="226.642,404.775 220.051,403.969 "/>
+<polygon class="graph.slice.The_Island" fill="#00E3E3" points="213.495,402.965 213.495,374.357 220.051,375.361 220.051,403.969 "/>
+<polyline fill="none" stroke="#000000" points="213.495,374.357 220.051,375.361 "/>
+<polyline fill="none" stroke="#000000" points="220.051,403.969 213.495,402.965 "/>
+<polygon class="graph.slice.The_Island" fill="#00DDDD" points="206.985,401.762 206.985,373.154 213.495,374.357 213.495,402.965 "/>
+<polyline fill="none" stroke="#000000" points="206.985,373.154 213.495,374.357 "/>
+<polyline fill="none" stroke="#000000" points="213.495,402.965 206.985,401.762 "/>
+<polygon class="graph.slice.The_Island" fill="#00D7D7" points="200.526,400.364 200.526,371.756 206.985,373.154 206.985,401.762 "/>
+<polyline fill="none" stroke="#000000" points="200.526,371.756 206.985,373.154 "/>
+<polyline fill="none" stroke="#000000" points="206.985,401.762 200.526,400.364 "/>
+<polygon class="graph.slice.The_Island" fill="#00D2D2" points="194.129,398.771 194.129,370.164 200.526,371.756 200.526,400.364 "/>
+<polyline fill="none" stroke="#000000" points="194.129,370.164 200.526,371.756 "/>
+<polyline fill="none" stroke="#000000" points="200.526,400.364 194.129,398.771 "/>
+<polygon class="graph.slice.The_Island" fill="#00CCCC" points="187.799,396.986 187.799,368.379 194.129,370.164 194.129,398.771 "/>
+<polyline fill="none" stroke="#000000" points="187.799,368.379 194.129,370.164 "/>
+<polyline fill="none" stroke="#000000" points="194.129,398.771 187.799,396.986 "/>
+<polygon class="graph.slice.The_Island" fill="#00C6C6" points="181.544,395.011 181.544,366.403 187.799,368.379 187.799,396.986 "/>
+<polyline fill="none" stroke="#000000" points="181.544,366.403 187.799,368.379 "/>
+<polyline fill="none" stroke="#000000" points="187.799,396.986 181.544,395.011 "/>
+<polygon class="graph.slice.The_Island" fill="#00C1C1" points="175.374,392.848 175.374,364.24 181.544,366.403 181.544,395.011 "/>
+<polyline fill="none" stroke="#000000" points="175.374,364.24 181.544,366.403 "/>
+<polyline fill="none" stroke="#000000" points="181.544,395.011 175.374,392.848 "/>
+<polygon class="graph.slice.The_Island" fill="#00BBBB" points="169.294,390.5 169.294,361.892 175.374,364.24 175.374,392.848 "/>
+<polyline fill="none" stroke="#000000" points="169.294,361.892 175.374,364.24 "/>
+<polyline fill="none" stroke="#000000" points="175.374,392.848 169.294,390.5 "/>
+<polygon class="graph.slice.The_Island" fill="#00B5B5" points="163.313,387.969 163.313,359.361 169.294,361.892 169.294,390.5 "/>
+<polyline fill="none" stroke="#000000" points="163.313,359.361 169.294,361.892 "/>
+<polyline fill="none" stroke="#000000" points="169.294,390.5 163.313,387.969 "/>
+<polygon class="graph.slice.The_Island" fill="#00B0B0" points="157.437,385.259 157.437,356.652 163.313,359.361 163.313,387.969 "/>
+<polyline fill="none" stroke="#000000" points="157.437,356.652 163.313,359.361 "/>
+<polyline fill="none" stroke="#000000" points="163.313,387.969 157.437,385.259 "/>
+<polygon class="graph.slice.The_Island" fill="#00AAAA" points="151.674,382.374 151.674,353.766 157.437,356.652 157.437,385.259 "/>
+<polyline fill="none" stroke="#000000" points="151.674,353.766 157.437,356.652 "/>
+<polyline fill="none" stroke="#000000" points="157.437,385.259 151.674,382.374 "/>
+<polygon class="graph.slice.The_Island" fill="#00A4A4" points="146.03,379.316 146.03,350.708 151.674,353.766 151.674,382.374 "/>
+<polyline fill="none" stroke="#000000" points="146.03,350.708 151.674,353.766 "/>
+<polyline fill="none" stroke="#000000" points="151.674,382.374 146.03,379.316 "/>
+<polygon class="graph.slice.The_Island" fill="#009F9F" points="140.514,376.089 140.514,347.481 146.03,350.708 146.03,379.316 "/>
+<polyline fill="none" stroke="#000000" points="140.514,347.481 146.03,350.708 "/>
+<polyline fill="none" stroke="#000000" points="146.03,379.316 140.514,376.089 "/>
+<polygon class="graph.slice.The_Island" fill="#009999" points="135.131,372.697 135.131,344.089 140.514,347.481 140.514,376.089 "/>
+<polyline fill="none" stroke="#000000" points="135.131,344.089 140.514,347.481 "/>
+<polyline fill="none" stroke="#000000" points="140.514,376.089 135.131,372.697 "/>
+<polygon class="graph.slice.The_Island" fill="#009393" points="129.888,369.145 129.888,340.537 135.131,344.089 135.131,372.697 "/>
+<polyline fill="none" stroke="#000000" points="129.888,340.537 135.131,344.089 "/>
+<polyline fill="none" stroke="#000000" points="135.131,372.697 129.888,369.145 "/>
+<polygon class="graph.slice.The_Island" fill="#008F8F" points="126.485,366.699 126.485,338.091 129.888,340.537 129.888,369.145 "/>
+<polyline fill="none" stroke="#000000" points="129.888,369.145 126.485,366.699 126.485,338.091 129.888,340.537 "/>
+<polygon class="graph.slice.The_Bad_News_Bears" fill="#8A8A00" points="121.489,362.889 121.489,334.281 126.485,338.091 126.485,366.699 "/>
+<polyline fill="none" stroke="#000000" points="121.489,334.281 126.485,338.091 126.485,366.699 121.489,362.889 "/>
+<polygon class="graph.slice.The_Bad_News_Bears" fill="#848400" points="116.65,358.93 116.65,330.322 121.489,334.281 121.489,362.889 "/>
+<polyline fill="none" stroke="#000000" points="116.65,330.322 121.489,334.281 "/>
+<polyline fill="none" stroke="#000000" points="121.489,362.889 116.65,358.93 "/>
+<polygon class="graph.slice.The_Bad_News_Bears" fill="#7E7E00" points="111.972,354.828 111.972,326.22 116.65,330.322 116.65,358.93 "/>
+<polyline fill="none" stroke="#000000" points="111.972,326.22 116.65,330.322 "/>
+<polyline fill="none" stroke="#000000" points="116.65,358.93 111.972,354.828 "/>
+<polygon class="graph.slice.The_Bad_News_Bears" fill="#797900" points="107.463,350.586 107.463,321.978 111.972,326.22 111.972,354.828 "/>
+<polyline fill="none" stroke="#000000" points="107.463,321.978 111.972,326.22 "/>
+<polyline fill="none" stroke="#000000" points="111.972,354.828 107.463,350.586 "/>
+<polygon class="graph.slice.The_Bad_News_Bears" fill="#737300" points="103.128,346.211 103.128,317.603 107.463,321.978 107.463,350.586 "/>
+<polyline fill="none" stroke="#000000" points="103.128,317.603 107.463,321.978 "/>
+<polyline fill="none" stroke="#000000" points="107.463,350.586 103.128,346.211 "/>
+<polygon class="graph.slice.The_Bad_News_Bears" fill="#6D6D00" points="98.972,341.708 98.972,313.1 103.128,317.603 103.128,346.211 "/>
+<polyline fill="none" stroke="#000000" points="98.972,313.1 103.128,317.603 "/>
+<polyline fill="none" stroke="#000000" points="103.128,346.211 98.972,341.708 "/>
+<polygon class="graph.slice.The_Bad_News_Bears" fill="#686800" points="94.999,337.082 94.999,308.474 98.972,313.1 98.972,341.708 "/>
+<polyline fill="none" stroke="#000000" points="94.999,308.474 98.972,313.1 "/>
+<polyline fill="none" stroke="#000000" points="98.972,341.708 94.999,337.082 "/>
+<polygon class="graph.slice.The_Bad_News_Bears" fill="#626200" points="91.216,332.338 91.216,303.73 94.999,308.474 94.999,337.082 "/>
+<polyline fill="none" stroke="#000000" points="91.216,303.73 94.999,308.474 "/>
+<polyline fill="none" stroke="#000000" points="94.999,337.082 91.216,332.338 "/>
+<polygon class="graph.slice.The_Bad_News_Bears" fill="#5C5C00" points="87.626,327.483 87.626,298.875 91.216,303.73 91.216,332.338 "/>
+<polyline fill="none" stroke="#000000" points="87.626,298.875 91.216,303.73 "/>
+<polyline fill="none" stroke="#000000" points="91.216,332.338 87.626,327.483 "/>
+<polygon class="graph.slice.The_Bad_News_Bears" fill="#575700" points="84.234,322.523 84.234,293.915 87.626,298.875 87.626,327.483 "/>
+<polyline fill="none" stroke="#000000" points="84.234,293.915 87.626,298.875 "/>
+<polyline fill="none" stroke="#000000" points="87.626,327.483 84.234,322.523 "/>
+<polygon class="graph.slice.The_Bad_News_Bears" fill="#515100" points="81.043,317.462 81.043,288.855 84.234,293.915 84.234,322.523 "/>
+<polyline fill="none" stroke="#000000" points="81.043,288.855 84.234,293.915 "/>
+<polyline fill="none" stroke="#000000" points="84.234,322.523 81.043,317.462 "/>
+<polygon class="graph.slice.The_Bad_News_Bears" fill="#4B4B00" points="78.059,312.309 78.059,283.701 81.043,288.855 81.043,317.462 "/>
+<polyline fill="none" stroke="#000000" points="78.059,283.701 81.043,288.855 "/>
+<polyline fill="none" stroke="#000000" points="81.043,317.462 78.059,312.309 "/>
+<polygon class="graph.slice.The_Bad_News_Bears" fill="#464600" points="75.284,307.069 75.284,278.461 78.059,283.701 78.059,312.309 "/>
+<polyline fill="none" stroke="#000000" points="75.284,278.461 78.059,283.701 "/>
+<polyline fill="none" stroke="#000000" points="78.059,312.309 75.284,307.069 "/>
+<polygon class="graph.slice.The_Bad_News_Bears" fill="#404000" points="72.722,301.748 72.722,273.14 75.284,278.461 75.284,307.069 "/>
+<polyline fill="none" stroke="#000000" points="72.722,273.14 75.284,278.461 "/>
+<polyline fill="none" stroke="#000000" points="75.284,307.069 72.722,301.748 "/>
+<polygon class="graph.slice.The_Bad_News_Bears" fill="#3A3A00" points="70.376,296.352 70.376,267.744 72.722,273.14 72.722,301.748 "/>
+<polyline fill="none" stroke="#000000" points="70.376,267.744 72.722,273.14 "/>
+<polyline fill="none" stroke="#000000" points="72.722,301.748 70.376,296.352 "/>
+<polygon class="graph.slice.The_Bad_News_Bears" fill="#353500" points="68.249,290.889 68.249,262.281 70.376,267.744 70.376,296.352 "/>
+<polyline fill="none" stroke="#000000" points="68.249,262.281 70.376,267.744 "/>
+<polyline fill="none" stroke="#000000" points="70.376,296.352 68.249,290.889 "/>
+<polygon class="graph.slice.The_Bad_News_Bears" fill="#303000" points="66.728,286.54 66.728,257.932 68.249,262.281 68.249,290.889 "/>
+<polyline fill="none" stroke="#000000" points="68.249,290.889 66.728,286.54 66.728,257.932 68.249,262.281 "/>
+<polygon class="graph.slice.War_of_the_Worlds" fill="#201626" points="64.998,280.972 64.998,252.364 66.728,257.932 66.728,286.54 "/>
+<polyline fill="none" stroke="#000000" points="64.998,252.364 66.728,257.932 66.728,286.54 64.998,280.972 "/>
+<polygon class="graph.slice.War_of_the_Worlds" fill="#201626" points="63.494,275.356 63.494,246.748 64.998,252.364 64.998,280.972 "/>
+<polyline fill="none" stroke="#000000" points="63.494,246.748 64.998,252.364 "/>
+<polyline fill="none" stroke="#000000" points="64.998,280.972 63.494,275.356 "/>
+<polygon class="graph.slice.War_of_the_Worlds" fill="#201626" points="62.217,269.698 62.217,241.09 63.494,246.748 63.494,275.356 "/>
+<polyline fill="none" stroke="#000000" points="62.217,241.09 63.494,246.748 "/>
+<polyline fill="none" stroke="#000000" points="63.494,275.356 62.217,269.698 "/>
+<polygon class="graph.slice.War_of_the_Worlds" fill="#201626" points="61.169,264.005 61.169,235.397 62.217,241.09 62.217,269.698 "/>
+<polyline fill="none" stroke="#000000" points="61.169,235.397 62.217,241.09 "/>
+<polyline fill="none" stroke="#000000" points="62.217,269.698 61.169,264.005 "/>
+<polygon class="graph.slice.War_of_the_Worlds" fill="#201626" points="60.351,258.283 60.351,229.676 61.169,235.397 61.169,264.005 "/>
+<polyline fill="none" stroke="#000000" points="60.351,229.676 61.169,235.397 "/>
+<polyline fill="none" stroke="#000000" points="61.169,264.005 60.351,258.283 "/>
+<polygon class="graph.slice.War_of_the_Worlds" fill="#201626" points="59.764,252.541 59.764,223.933 60.351,229.676 60.351,258.283 "/>
+<polyline fill="none" stroke="#000000" points="59.764,223.933 60.351,229.676 "/>
+<polyline fill="none" stroke="#000000" points="60.351,258.283 59.764,252.541 "/>
+<polygon class="graph.slice.War_of_the_Worlds" fill="#201626" points="59.409,246.784 59.409,218.176 59.764,223.933 59.764,252.541 "/>
+<polyline fill="none" stroke="#000000" points="59.409,218.176 59.764,223.933 "/>
+<polyline fill="none" stroke="#000000" points="59.764,252.541 59.409,246.784 "/>
+<polygon class="graph.slice.March_of_the_Penguins" fill="#C0C0C0" points="176.852,59.709 183.044,57.59 189.317,55.661 195.664,53.922 202.077,52.376 208.549,51.025 215.071,49.87 216.888,49.585 250.006,212.243 "/>
+<polyline fill="none" stroke="#000000" points="250.006,212.243 176.852,59.709 183.044,57.59 189.317,55.661 195.664,53.922 202.077,52.376 208.549,51.025 215.071,49.87 216.888,49.585 250.006,212.243 "/>
+<polygon class="graph.slice.Charlie_and_the_Chocolate_Factory" fill="#48C92F" points="216.888,49.585 223.463,48.683 230.07,47.98 236.702,47.478 243.35,47.176 250.006,47.075 256.662,47.176 263.31,47.478 269.941,47.98 276.549,48.683 283.124,49.585 289.659,50.685 296.145,51.982 302.575,53.474 308.941,55.159 315.236,57.036 321.45,59.102 327.578,61.355 333.612,63.791 339.543,66.409 345.365,69.204 351.072,72.173 356.655,75.313 362.108,78.62 367.424,82.089 372.598,85.717 377.622,89.5 382.491,93.431 387.198,97.508 391.738,101.724 396.105,106.075 400.295,110.556 404.301,115.16 408.119,119.883 411.745,124.718 415.174,129.659 418.401,134.702 421.423,139.839 424.237,145.064 426.838,150.37 429.223,155.753 431.391,161.204 432.026,162.928 250.006,212.243 "/>
+<polyline fill="none" stroke="#000000" points="250.006,212.243 216.888,49.585 223.463,48.683 230.07,47.98 236.702,47.478 243.35,47.176 250.006,47.075 256.662,47.176 263.31,47.478 269.941,47.98 276.549,48.683 283.124,49.585 289.659,50.685 296.145,51.982 302.575,53.474 308.941,55.159 315.236,57.036 321.45,59.102 327.578,61.355 333.612,63.791 339.543,66.409 345.365,69.204 351.072,72.173 356.655,75.313 362.108,78.62 367.424,82.089 372.598,85.717 377.622,89.5 382.491,93.431 387.198,97.508 391.738,101.724 396.105,106.075 400.295,110.556 404.301,115.16 408.119,119.883 411.745,124.718 415.174,129.659 418.401,134.702 421.423,139.839 424.237,145.064 426.838,150.37 429.223,155.753 431.391,161.204 432.026,162.928 250.006,212.243 "/>
+<polygon class="graph.slice.Wedding_Crashers" fill="#FBA331" points="432.026,162.928 433.902,168.459 435.554,174.044 436.981,179.675 438.179,185.346 439.149,191.05 439.887,196.779 440.395,202.528 440.671,208.288 440.714,214.053 440.525,219.816 440.103,225.569 439.451,231.307 438.567,237.021 437.454,242.705 436.112,248.352 434.543,253.955 432.75,259.507 430.734,265.001 428.498,270.431 426.044,275.79 423.376,281.072 420.497,286.27 417.41,291.378 414.119,296.39 410.628,301.298 406.941,306.099 403.064,310.785 398.999,315.351 394.753,319.791 390.331,324.1 385.738,328.274 380.98,332.305 376.062,336.191 370.99,339.925 365.771,343.504 360.411,346.923 354.916,350.178 349.294,353.264 347.879,354.004 250.006,212.243 "/>
+<polyline fill="none" stroke="#000000" points="250.006,212.243 432.026,162.928 433.902,168.459 435.554,174.044 436.981,179.675 438.179,185.346 439.149,191.05 439.887,196.779 440.395,202.528 440.671,208.288 440.714,214.053 440.525,219.816 440.103,225.569 439.451,231.307 438.567,237.021 437.454,242.705 436.112,248.352 434.543,253.955 432.75,259.507 430.734,265.001 428.498,270.431 426.044,275.79 423.376,281.072 420.497,286.27 417.41,291.378 414.119,296.39 410.628,301.298 406.941,306.099 403.064,310.785 398.999,315.351 394.753,319.791 390.331,324.1 385.738,328.274 380.98,332.305 376.062,336.191 370.99,339.925 365.771,343.504 360.411,346.923 354.916,350.178 349.294,353.264 347.879,354.004 250.006,212.243 "/>
+<polygon class="graph.slice.Fantastic_Four" fill="#FA7BD5" points="347.879,354.004 342.107,356.876 336.222,359.571 330.233,362.087 324.145,364.421 317.968,366.569 311.707,368.529 305.372,370.299 298.968,371.876 292.506,373.258 285.991,374.445 279.433,375.433 272.839,376.223 266.216,376.814 259.575,377.203 252.921,377.392 246.264,377.38 239.612,377.166 233.262,376.774 250.006,212.243 "/>
+<polyline fill="none" stroke="#000000" points="250.006,212.243 347.879,354.004 342.107,356.876 336.222,359.571 330.233,362.087 324.145,364.421 317.968,366.569 311.707,368.529 305.372,370.299 298.968,371.876 292.506,373.258 285.991,374.445 279.433,375.433 272.839,376.223 266.216,376.814 259.575,377.203 252.921,377.392 246.264,377.38 239.612,377.166 233.262,376.774 250.006,212.243 "/>
+<polygon class="graph.slice.The_Island" fill="#00FFFF" points="233.262,376.774 226.642,376.167 220.051,375.361 213.495,374.357 206.985,373.154 200.526,371.756 194.129,370.164 187.799,368.379 181.544,366.403 175.374,364.24 169.294,361.892 163.313,359.361 157.437,356.652 151.674,353.766 146.03,350.708 140.514,347.481 135.131,344.089 129.888,340.537 126.485,338.091 250.006,212.243 "/>
+<polyline fill="none" stroke="#000000" points="250.006,212.243 233.262,376.774 226.642,376.167 220.051,375.361 213.495,374.357 206.985,373.154 200.526,371.756 194.129,370.164 187.799,368.379 181.544,366.403 175.374,364.24 169.294,361.892 163.313,359.361 157.437,356.652 151.674,353.766 146.03,350.708 140.514,347.481 135.131,344.089 129.888,340.537 126.485,338.091 250.006,212.243 "/>
+<polygon class="graph.slice.The_Bad_News_Bears" fill="#FFFF00" points="126.485,338.091 121.489,334.281 116.65,330.322 111.972,326.22 107.463,321.978 103.128,317.603 98.972,313.1 94.999,308.474 91.216,303.73 87.626,298.875 84.234,293.915 81.043,288.855 78.059,283.701 75.284,278.461 72.722,273.14 70.376,267.744 68.249,262.281 66.728,257.932 250.006,212.243 "/>
+<polyline fill="none" stroke="#000000" points="250.006,212.243 126.485,338.091 121.489,334.281 116.65,330.322 111.972,326.22 107.463,321.978 103.128,317.603 98.972,313.1 94.999,308.474 91.216,303.73 87.626,298.875 84.234,293.915 81.043,288.855 78.059,283.701 75.284,278.461 72.722,273.14 70.376,267.744 68.249,262.281 66.728,257.932 250.006,212.243 "/>
+<polygon class="graph.slice.War_of_the_Worlds" fill="#BC81E2" points="66.728,257.932 64.998,252.364 63.494,246.748 62.217,241.09 61.169,235.397 60.351,229.676 59.764,223.933 59.409,218.176 59.286,212.412 59.396,206.647 59.737,200.89 60.311,195.146 61.115,189.423 61.976,184.599 250.006,212.243 "/>
+<polyline fill="none" stroke="#000000" points="250.006,212.243 66.728,257.932 64.998,252.364 63.494,246.748 62.217,241.09 61.169,235.397 60.351,229.676 59.764,223.933 59.409,218.176 59.286,212.412 59.396,206.647 59.737,200.89 60.311,195.146 61.115,189.423 61.976,184.599 250.006,212.243 "/>
+<polygon class="graph.slice.Hustle_and_Flow" fill="#FC2F6E" points="61.976,184.599 63.205,178.933 64.661,173.307 66.343,167.729 68.249,162.205 70.376,156.742 72.722,151.347 75.284,146.026 78.059,140.786 81.043,135.632 84.234,130.572 87.626,125.612 90.573,121.599 250.006,212.243 "/>
+<polyline fill="none" stroke="#000000" points="250.006,212.243 61.976,184.599 63.205,178.933 64.661,173.307 66.343,167.729 68.249,162.205 70.376,156.742 72.722,151.347 75.284,146.026 78.059,140.786 81.043,135.632 84.234,130.572 87.626,125.612 90.573,121.599 250.006,212.243 "/>
+<polygon class="graph.slice.The_Devil's_Rejects" fill="#FACE49" points="90.573,121.599 94.323,116.836 98.262,112.189 102.387,107.663 106.691,103.265 111.17,99 115.818,94.873 120.63,90.889 125.599,87.053 130.72,83.369 135.986,79.842 137.158,79.091 250.006,212.243 "/>
+<polyline fill="none" stroke="#000000" points="250.006,212.243 90.573,121.599 94.323,116.836 98.262,112.189 102.387,107.663 106.691,103.265 111.17,99 115.818,94.873 120.63,90.889 125.599,87.053 130.72,83.369 135.986,79.842 137.158,79.091 250.006,212.243 "/>
+<polygon class="graph.slice.Batman_Begins" fill="#7C7CFF" points="137.158,79.091 142.592,75.762 148.158,72.598 153.847,69.605 159.654,66.786 165.571,64.144 171.59,61.682 176.852,59.709 250.006,212.243 "/>
+<g transform="matrix(1 0 0 1 201.895 69.406)">
+<text x="-13.895000457763672" y="2.799999952316284" font-family="sans-serif" font-size="10" fill="#000000" pointer-events="none">$4.3M</text>
+</g>
+<g transform="matrix(1 0 0 1 165.701 82.612)">
+<text x="-13.895000457763672" y="2.799999952316284" font-family="sans-serif" font-size="10" fill="#000000" pointer-events="none">$4.7M</text>
+</g>
+<g transform="matrix(1 0 0 1 339.215 85.101)">
+<text x="-16.674999237060547" y="2.799999952316284" font-family="sans-serif" font-size="10" fill="#000000" pointer-events="none">$28.5M</text>
+</g>
+<g transform="matrix(1 0 0 1 125.504 109.767)">
+<text x="-9.725000381469727" y="2.799999952316284" font-family="sans-serif" font-size="10" fill="#000000" pointer-events="none">$7M</text>
+</g>
+<g transform="matrix(1 0 0 1 90.258 157.715)">
+<text x="-13.895000457763672" y="2.799999952316284" font-family="sans-serif" font-size="10" fill="#000000" pointer-events="none">$8.1M</text>
+</g>
+<g transform="matrix(1 0 0 1 250 22)">
+<text x="-224.34500122070312" y="-4.840000152587891" font-family="sans-serif" font-size="22" fill="#FF0000" pointer-events="none">Weekend Box Office Figures 22-24 July, 2005</text>
+</g>
+<g transform="matrix(1 0 0 1 250 35.824)">
+<text x="-100.53899383544922" y="-3.9600002765655518" font-family="sans-serif" font-size="18" fill="#000000" pointer-events="none">North American Theatres</text>
+</g>
+<g transform="matrix(1 0 0 1 78.628 220.427)">
+<text x="-13.895000457763672" y="2.799999952316284" font-family="sans-serif" font-size="10" fill="#000000" pointer-events="none">$8.8M</text>
+</g>
+<g transform="matrix(1 0 0 1 410.385 265.07)">
+<text x="-16.674999237060547" y="2.799999952316284" font-family="sans-serif" font-size="10" fill="#000000" pointer-events="none">$26.2M</text>
+</g>
+<g transform="matrix(1 0 0 1 105.8 292.726)">
+<text x="-16.674999237060547" y="2.799999952316284" font-family="sans-serif" font-size="10" fill="#000000" pointer-events="none">$11.5M</text>
+</g>
+<g transform="matrix(1 0 0 1 183.764 349.235)">
+<text x="-16.674999237060547" y="2.799999952316284" font-family="sans-serif" font-size="10" fill="#000000" pointer-events="none">$12.1M</text>
+</g>
+<g transform="matrix(1 0 0 1 288.384 356.987)">
+<text x="-16.674999237060547" y="2.799999952316284" font-family="sans-serif" font-size="10" fill="#000000" pointer-events="none">$12.3M</text>
+</g>
+<g transform="matrix(1 0 0 1 250 250)">
+<text x="-225.0" y="42.0" font-family="sans-serif" font-size="150" fill="#000000,38" style="fill-opacity:0.149" pointer-events="none">DEMO</text>
+</g>
+<polyline fill="none" stroke="#000000" points="250.006,212.243 137.158,79.091 142.592,75.762 148.158,72.598 153.847,69.605 159.654,66.786 165.571,64.144 171.59,61.682 176.852,59.709 250.006,212.243 "/>
+
+</g></svg>
